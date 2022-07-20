@@ -88,51 +88,68 @@ int main()
             }
         }
 
-        if (op == 3) // Remocao
+        if (op == 2) // Consultar
+        {
+            if (inicio == NULL)
+                cout << "Lista Vazia";
+            else
+            {
+                aux = inicio;
+                while (aux != NULL)
+                {
+                    cout << aux->num << " ";
+                    aux = aux->prox;
+                }
+            }
+        }
+        if (op == 4)
         {
             if (inicio == NULL)
             {
                 cout << "Lista Vazia";
             }
-            else // Lista contem elementos
+            else
             {
+                cout << "Digite o elemento a ser removido\n";
                 cin >> numero;
                 aux = inicio;
-                anterior = NULL;
-
                 while (aux != NULL)
                 {
-                    if (aux->num == numero) // Encontrou
+                    if (aux->num == numero) // numero encontrado
                     {
-                        if (aux == inicio) // Primeiro da lista
+                        if (aux == inicio) // primeiro da lista
                         {
                             inicio = aux->prox;
+                            if (inicio != NULL)
+                                inicio->ant = NULL;
                             delete (aux);
                             aux = inicio;
                         }
-                        else if (aux == fim) // Ultimo da lista
+                        else if (aux == fim) // ultimo da lista
                         {
-                            anterior->prox = NULL;
-                            fim = anterior;
+                            fim = fim->ant;
+                            fim->prox = NULL;
                             delete (aux);
                             aux = NULL;
                         }
-                        else // Meio da Lista
+                        else // meio da lista
                         {
-                            anterior->prox = aux->prox;
+                            aux->ant->prox = aux->prox;
+                            aux->prox->ant = aux->ant;
+                            Lista *aux2;
+                            aux2 = aux->prox;
                             delete (aux);
-                            aux = anterior->prox;
+                            aux = aux2;
                         }
                     }
                     else
                     {
-                        anterior = aux;
                         aux = aux->prox;
                     }
                 }
             }
         }
-        if (op == 4) // Esvaziar
+        if (op == 5) // esvaziamento
         {
             if (inicio == NULL)
             {
@@ -149,7 +166,6 @@ int main()
                 }
             }
         }
-
     } while (op != 5);
     return 0;
 }
