@@ -1,0 +1,22 @@
+P2 Robótica
+Vitor Emanuel da Silva Rozeno
+
+Exercício 1:
+
+a) SCARA: O robô SCARA é um robô articulado reduzido, possuindo quatro graus de liberdade. Projetado para tarefas repetitivas, esse tipo de robô possui, comumente, dois tipos de design: 
+1. Todo seu braço é movido verticalmente
+2. Apenas o último eixo é movido verticalmente.
+Com esses tipos de design, um robô SCARA é habilitado para tarefas de movimentação de peças entre determinados locais, contribuindo em uma linha de montagem, por exemplo.
+
+Cobots: Robôs colaborativos são interessantes pois atuam juntamente com humanos. Diferentemente de outros tipos de robôs industriais, cobots são muito mais seguros, já que visam o trabalho colaborativo, não se fazendo necessária a criação de limites e barreiras de segurança, oferecendo, portanto, suporte à saúde humana, muito devido ao seu sensoriamento inteligente.
+
+Cobots são pensados para realização de tarefas de maneira autônoma, mas eles podem se adaptar e aprender outras tarefas, o que reflete sua flexibilidade. Esses tipos de robôs podem ser utilizados para ser uma "extensão" do braço de uma pessoa, por exemplo, onde o robô executa tarefas mais pesadas ou detalhadas, auxiliando o trabalho de alguém.
+
+b) Contém 4 graus de liberdade, já que possui 4 juntas. 
+De forma simples e direta, a programação de um braço robótico industrial baseia-se no controle de elos conectados por juntas; esse controle é feito por atuadores. O controle baseia-se na definição dos movimentos que deverão ser realizados pelo robô, buscando automatizar algum processo, por exemplo.
+
+c) Pensando no bem-estar dos trabalhadores, a robótica no âmbito industrial surge como uma alternativa na realização de tarefas perigosas, auxiliando na redução de acidentes no ambiente de trabalho. Dessa maneira, as tarefas realizadas por humanos passam a ser mais seguras, ao passo que, tarefas perigosas, mas necessárias, continuam sendo realizadas, mas agora evitando colocar alguém em perigo.
+
+Além disso, outra vantagem da aplicação da robótica em processos industriais é a consistência e qualidade. Isto é, diferentemente de um humano, a consistência e qualidade do que um robô faz é sempre constante, não dependendo de fatores externos, como é no caso de humanos, que em determinados dias estarão menos dispostos, ou podem adoecer, por exemplo. Dessa maneira, com a utilização da robótica, a produção se torna padronizada, garantindo uma qualidade constante.
+
+Por fim, a robótica no âmbito industrial é extremamente importante quando se pensa em flexibilização. Robôs industriais podem realizar diferentes tarefas, suprindo diversas demandas de diversos setores. Sendo assim, se surge alguma deficiência em determinada etapa de um processo, um robô industrial pode assumir e prevenir futuros prejuízos.

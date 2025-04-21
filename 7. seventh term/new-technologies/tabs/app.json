@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tabs-expo",
+    "slug": "tabs-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
