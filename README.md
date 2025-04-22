@@ -1,59 +1,59 @@
 # 🧠 comp-sci-files
 
-Repositório com projetos, exercícios e anotações desenvolvidos durante minha graduação em Ciência da Computação na UNESP.  
-Organizado por semestre, este repositório reflete minha evolução acadêmica e prática em diversas disciplinas da computação.
+Repository containing projects, exercises, and notes developed throughout my Computer Science degree at UNESP.  
+Organized by semester, this repository reflects my academic and practical evolution across various areas of computing.
 
 ---
 
-## 📚 Semestres
+## 📚 Semesters
 
-### 📘 [1º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/1o%20Semestre)
+### 📘 [1st Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/1.%20first%20term)
 
-- Introdução à Computação
-- Lógica de Programação...
+- Introduction to Computing
+- Programming Logic...
 
-### 📗 [2º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/2o%20Semestre)
+### 📗 [2nd Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/2.%20second%20term)
 
-- Algoritmos II com C
-- Manipulação de arquivos
-- Estrutura de dados básicas...
+- Algorithms II with C
+- File Handling
+- Basic Data Structures...
 
-### 📙 [3º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/3o%20Semestre)
+### 📙 [3rd Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/3.%20third%20term)
 
-- Programação orientada a objetos (Java)
-- Estruturas de dados: listas, filas, pilhas, árvores...
+- Object-Oriented Programming (Java)
+- Data Structures: Lists, Queues, Stacks, Trees...
 
-### 📕 [4º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/4o%20Semestre)
+### 📕 [4th Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/4.%20fourth%20term)
 
-- Estruturas avançadas
-- Análise de algoritmos
-- Probabilidade e estatística...
+- Advanced Data Structures
+- Algorithm Analysis
+- Probability and Statistics...
 
-### 📓 [5º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/5o%20Semestre)
+### 📓 [5th Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/5.%20fifth%20term)
 
-- Sistemas Operacionais...
+- Operating Systems...
 
-### 📒 [6º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/6o%20Semestre)
+### 📒 [6th Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/6.%20sixth%20term)
 
-- Banco de Dados II
-- Computação Gráfica...
+- Advanced Databases
+- Computer Graphics...
 
-### 📔 [7º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/7o%20Semestre)
+### 📔 [7th Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/7.%20seventh%20term)
 
-- Desenvolvimento de sistemas distribuídos
-- BioInformática...
+- Distributed Systems Development
+- Bioinformatics...
 
-### 📓 [8º Semestre](https://github.com/vesrozeno/comp-sci-files/tree/main/8o%20Semestre)
+### 📓 [8th Semester](https://github.com/vesrozeno/comp-sci-files/tree/main/8.%20eighth%20term)
 
-- Trabalho de Conclusão de Curso (TCC)
-- Inteligência Artificial
-- Robótica...
+- Final Thesis (TCC)
+- Artificial Intelligence
+- Robotics...
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## 🛠️ Technologies & Languages
 
-Este repositório abrange uma variedade de linguagens e ferramentas utilizadas ao longo do curso:
+This repository includes a wide variety of programming languages and tools used throughout the course:
 
 - **C / C++**
 - **Java**
@@ -65,6 +65,6 @@ Este repositório abrange uma variedade de linguagens e ferramentas utilizadas a
 
 ---
 
-## 🎓 Sobre
+## 🎓 About
 
-Este repositório serve como um portfólio acadêmico, demonstrando os conhecimentos adquiridos e aplicados durante minha formação em Ciência da Computação pela UNESP.
+This repository serves as an academic portfolio, showcasing the knowledge I acquired and applied during my undergraduate studies in Computer Science at UNESP.
